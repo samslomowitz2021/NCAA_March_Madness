@@ -1,0 +1,46 @@
+Coaches
+-
+Coach_id PK int
+FirstName VARCHAR(30)
+LastName VARCHAR(30)
+Mascot VARCHAR(30)
+last_updated TIMESTAMP
+
+Player
+-
+Player_id PK int
+Team_id Null int FK >- Team.Team_id
+Player VARCHAR(30)
+FirstName VARCHAR(30)
+LastName VARCHAR(30)
+PPG float
+APG float
+RPG float
+SPG float
+3Point float
+last_updated TIMESTAMP
+
+Team
+-
+Team_id PK int
+Team VARCHAR(30)
+Abrev VARCHAR(30)
+FG float
+3PM float
+FT float
+PPG float
+Coach_id NULL int FK >- Coaches.Coach_id
+last_updated TIMESTAMP
+
+TVSchedule
+------------
+Schedule_id PK int
+Round VARCHAR(30)
+Dates VARCHAR(30)
+Team_id_1 int FK >- Team.Team_id
+Team_id_2 int FK >- Team.Team_id
+Time_ET time
+TV_Network VARCHAR(30)
+City VARCHAR(30)
+Venue NULL VARCHAR(30)
+last_updated TIMESTAMP
