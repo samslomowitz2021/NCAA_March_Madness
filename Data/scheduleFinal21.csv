@@ -1,0 +1,45 @@
+Schedule_Id,Round,Day,Team_Id_1,Team_Id_2,Time_ET,TV_Network,City,Venue
+0,Second Round,"Saturday, March 19",28,9,12:10 PM,CBS,"Fort Worth, Texas",Dickies Arena
+8,First Four,"Tuesday, March 15",67,68,6:40 PM,truTV,"Dayton, Ohio",UD Arena
+9,First Four,"Tuesday, March 15",31,48,9:10 PM,truTV,"Dayton, Ohio",UD Arena
+10,First Four,"Wednesday, March 16",62,66,6:40 PM,truTV,"Dayton, Ohio",UD Arena
+11,First Four,"Wednesday, March 16",47,36,9:10 PM,truTV,"Dayton, Ohio",UD Arena
+12,First Round,"Thursday, March 17",35,32,12:15 PM,CBS,"Indianapolis, Indiana",Gainbridge Fieldhouse
+13,First Round,"Thursday, March 17",40,39,12:40 PM,truTV,"Buffalo, New York",KeyBank Center
+14,First Round,"Thursday, March 17",20,19,1:45 PM,TNT,"Portland, Oregon",Moda Center
+15,First Round,"Thursday, March 17",9,63,2:00 PM,TBS,"Fort Worth, Texas",Dickies Arena
+16,First Round,"Thursday, March 17",6,58,2:45 PM,CBS,"Indianapolis, Indiana",Gainbridge Fieldhouse
+17,First Round,"Thursday, March 17",54,13,3:10 PM,truTV,"Buffalo, New York",KeyBank Center
+18,First Round,"Thursday, March 17",1,65,4:15 PM,TNT,"Portland, Oregon",Moda Center
+19,First Round,"Thursday, March 17",28,50,4:30 PM,TBS,"Fort Worth, Texas",Dickies Arena
+20,First Round,"Thursday, March 17",52,18,6:50 PM,TNT,"Buffalo, New York",KeyBank Center
+21,First Round,"Thursday, March 17",57,7,7:10 PM,CBS,"Indianapolis, Indiana",Gainbridge Fieldhouse
+22,First Round,"Thursday, March 17",14,31,7:20 PM,TBS,"Portland, Oregon",Moda Center
+23,First Round,"Thursday, March 17",22,25,7:27 PM,truTV,"Fort Worth, Texas",Dickies Arena
+24,First Round,"Thursday, March 17",12,46,9:20 PM,TNT,"Buffalo, New York",KeyBank Center
+25,First Round,"Thursday, March 17",24,30,9:40 PM,CBS,"Indianapolis, Indiana",Gainbridge Fieldhouse
+26,First Round,"Thursday, March 17",5,55,9:50 PM,TBS,"Portland, Oregon",Moda Center
+27,First Round,"Thursday, March 17",3,67,9:57 PM,truTV,"Fort Worth, Texas",Dickies Arena
+28,First Round,"Friday, March 18",38,26,12:15 PM,CBS,"Pittsburgh, Pennsylvania",PPG Paints Arena
+29,First Round,"Friday, March 18",17,60,12:40 PM,truTV,"Greenville, South Carolina",Bon Secours Wellness Arena
+30,First Round,"Friday, March 18",8,56,1:45 PM,TNT,"San Diego, California",Viejas Arena
+31,First Round,"Friday, March 18",4,59,2:00 PM,TBS,"Milwaukee, Wisconsin",Fiserv Forum
+32,First Round,"Friday, March 18",10,61,2:45 PM,CBS,"Pittsburgh, Pennsylvania",PPG Paints Arena
+33,First Round,"Friday, March 18",44,33,3:10 PM,truTV,"Greenville, South Carolina",Bon Secours Wellness Arena
+34,First Round,"Friday, March 18",47,37,4:15 PM,TNT,"San Diego, California",Viejas Arena
+35,First Round,"Friday, March 18",21,29,4:30 PM,TBS,"Milwaukee, Wisconsin",Fiserv Forum
+36,First Round,"Friday, March 18",16,53,6:50 PM,TNT,"Pittsburgh, Pennsylvania",PPG Paints Arena
+37,First Round,"Friday, March 18",11,64,7:10 PM,CBS,"Greenville, South Carolina",Bon Secours Wellness Arena
+38,First Round,"Friday, March 18",51,41,7:20 PM,TBS,"Milwaukee, Wisconsin",Fiserv Forum
+39,First Round,"Friday, March 18",2,62,7:27 PM,truTV,"San Diego, California",Viejas Arena
+40,First Round,"Friday, March 18",15,45,9:20 PM,TNT,"Pittsburgh, Pennsylvania",PPG Paints Arena
+41,First Round,"Friday, March 18",27,42,9:40 PM,CBS,"Greenville, South Carolina",Bon Secours Wellness Arena
+42,First Round,"Friday, March 18",23,49,9:50 PM,TBS,"Milwaukee, Wisconsin",Fiserv Forum
+43,First Round,"Friday, March 18",43,34,9:57 PM,truTV,"San Diego, California",Viejas Arena
+3,Second Round,"Saturday, March 19",40,54,6:10 PM,TNT,"Buffalo, New York",KeyBank Center
+5,Second Round,"Saturday, March 19",24,57,7:45 PM,CBS,"Indianapolis, Indiana",Gainbridge Fieldhouse
+6,Second Round,"Saturday, March 19",12,52,8:40 PM,TNT,"Buffalo, New York",KeyBank Center
+2,Second Round,"Saturday, March 19",6,35,5:15 PM,CBS,"Indianapolis, Indiana",Gainbridge Fieldhouse
+4,Second Round,"Saturday, March 19",5,14,7:10 PM,TBS,"Portland, Oregon",Moda Center
+1,Second Round,"Saturday, March 19",3,22,2:40 PM,CBS,"Fort Worth, Texas",Dickies Arena
+7,Second Round,"Saturday, March 19",1,20,9:40 PM,TBS,"Portland, Oregon",Moda Center

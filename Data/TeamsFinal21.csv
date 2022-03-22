@@ -1,0 +1,69 @@
+Team_Id,Team,Abrev,FG,3PM,FT,PPG,Coach Rank
+1,Gonzaga,GU,0.507,5,0.533,93,61
+2,Arizona,U of A,0.55,11,0.833,87,40
+3,Kansas,KU,0.5,11,0.444,83,20
+4,Purdue,PU,0.431,7,0.818,78,10
+5,UCLA,UCLA,0.352,8,0.846,57,59
+6,Tennessee,UT,0.6,14,0.727,88,49
+7,Kentucky,UK,0.426,4,0.657,79,38
+8,Texas Tech,TTU,0.667,12,0.684,97,57
+9,Baylor,BU,0.574,11,0.571,85,66
+10,Villanova,VILL,0.509,13,0.917,80,28
+11,Duke,DUKE,0.517,9,1,78,27
+12,Arkansas,U of A,0.429,7,0.8,75,46
+13,Iowa,UI,0.364,6,0.75,63,22
+14,Saint Mary's,SMC,0.517,10,0.667,82,51
+15,Houston,U of H,0.533,10,0.533,82,48
+16,Illinois,U of I,0.388,3,0.591,54,31
+17,Auburn,AU,0.444,9,0.682,80,68
+18,Connecticut,UConn,0.431,7,0.923,63,9
+19,Boise State,BSU,0.315,6,0.684,53,67
+20,Memphis,UM,0.471,5,0.786,64,1
+21,Texas,UT,0.474,10,0.773,81,64
+22,Creighton,CU,0.446,2,0.833,72,18
+23,Wisconsin,UW,0.419,6,0.75,67,62
+24,Murray State,MSU,0.484,6,0.686,92,34
+25,San Diego State,SDSU,0.422,5,0.588,69,63
+26,Loyola (IL),L-IL,0.268,8,0.3,41,17
+27,Michigan State,MSU,0.475,7,0.733,74,43
+28,North Carolina,UNC,0.459,13,0.824,95,4
+29,Virginia Tech,VT,0.489,4,0.885,73,52
+30,San Francisco,USF,0.471,9,0.636,87,24
+31,Indiana,IU,0.383,2,0.711,59.5,3
+32,Colorado State,CSU,0.354,12,0.714,63,65
+33,USC,USC,0.48,9,0.6,66,30
+34,Seton Hall,SHU,0.288,6,0.545,42,35
+35,Michigan,UM,0.542,4,0.864,75,2
+36,Rutgers,RU,0.507,11,0.667,87,19
+37,Alabama,UA,0.406,8,0.571,64,47
+38,Ohio State,OSU,0.419,1,0.81,54,36
+39,South Dakota State,SDSU,0.386,7,0.667,57,32
+40,Providence,PROV,0.393,8,0.833,66,44
+41,LSU,LSU,0.37,4,0.696,54,58
+42,Davidson,DAV,0.475,10,0.583,73,12
+43,Texas Christian,TCU,0.509,4,0.786,69,8
+44,Miami (FL),UM,0.429,1,0.76,68,7
+45,UAB,UAB,0.464,5,0.786,68,6
+46,Vermont,UVM,0.448,9,0.588,71,60
+47,Notre Dame,ND,0.524,8,0.704,83.5,25
+48,Wyoming,UW,0.435,6,0.667,58,42
+49,Colgate,CU,0.386,10,0.857,60,11
+50,Marquette,MU,0.356,8,0.375,63,41
+51,Iowa State,ISU,0.357,12,0.7,59,55
+52,New Mexico State,NMSU,0.46,11,1,70,33
+53,Chattanooga,UTC,0.323,4,0.5,53,50
+54,Richmond,RICH,0.421,5,0.875,67,13
+55,Akron,AKR,0.396,4,0.875,53,54
+56,Montana State,MSU,0.382,8,0.8,62,16
+57,Saint Peter's,SPC,0.509,9,0.857,85,5
+58,Longwood,LONG,0.385,7,0.818,56,56
+59,Yale,YALE,0.365,4,0.545,56,45
+60,Jacksonville State,JSU,0.311,8,0.833,61,26
+61,Delaware,UD,0.44,3,0.812,60,14
+62,Wright State,WRST,0.408,9,0.765,81.5,29
+63,Norfolk State,NSU,0.316,5,0.8,49,39
+64,Cal State Fullerton,CSUF,0.375,5,1,61,37
+65,Georgia State,GSU,0.329,6,0.8,72,21
+66,Bryant,BU,0.437,4,0.696,82,23
+67,Texas Southern,TSU,0.372,3.5,0.759,66,15
+68,Texas A&M-CC,TAMU-CC,0.373,8,0.474,67,53
