@@ -6,6 +6,14 @@
 ---
 NCAA March Madness is a data-driven event that entails collecting and interpreting information to optimize better outcomes for the tournament. Ken Pomeroy is a venerable analyst and data collector for the annual NCAA bracket. Warren Buffet offers a multi-million-dollar prize to anyone who submits a perfect bracket. To facilitate better predictions and build towards a larger data science project, we begin with an ETL (Extract, Transform, and Load) database repository. Thus, a thorough data collection method will enable future machine learning and web visualization endeavors.
 
+### Preview of our Project
+
+![Alt text](avgGameScore.png?raw=true "Title")
+
+![Alt text](topAssist.png?raw=true "Title")
+
+![Alt text](topTeams.png?raw=true "Title")
+
 ### Database Design
 ---
 Our database design contains a relational database that hinges on primary and foreign keys, especially a “team id,” which was simply the rank of the team in the NCAA tournament. Given that 68 teams now play in the annual NCAA bracket, we assign 68 ids to each team, respectively [this is found in the teams table]. Coaches in the coaches table are ranked not on their coaching expertise and performance but rather on their basketball career in high school and/or college. Player statistics table includes points per game (PPG), assists (APG), rebounds (RPG), steals (SPG), and 3-pointers (3P%). The TV schedule table includes the round of the tournament, day of the game, time of the game, TV network, city, and venue. 
