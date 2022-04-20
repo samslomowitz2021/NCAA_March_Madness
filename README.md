@@ -18,6 +18,8 @@ NCAA March Madness is a data-driven event that entails collecting and interpreti
 ---
 Our database design contains a relational database that hinges on primary and foreign keys, especially a “team id,” which was simply the rank of the team in the NCAA tournament. Given that 68 teams now play in the annual NCAA bracket, we assign 68 ids to each team, respectively [this is found in the teams table]. Coaches in the coaches table are ranked not on their coaching expertise and performance but rather on their basketball career in high school and/or college. Player statistics table includes points per game (PPG), assists (APG), rebounds (RPG), steals (SPG), and 3-pointers (3P%). The TV schedule table includes the round of the tournament, day of the game, time of the game, TV network, city, and venue. 
 
+![Alt text](ERD_NCAA_Final.png?raw=true "Title")
+
 ### Extracting Data via Web Scraping
 ---
 Coaches Rank was web scraped from ESPN using Beautiful Soup. Data cleaning included removing non-text items, unneeded punctuation, and splitting apart rank, first name, and last name. The TV Schedule, including the outcome of the first 44 games of the tournament, was web scraped from NCAA.com using Splinter. We set up a complicated, yet effective for-loop to iterate through the rows of a table to pull game team information, time, and TV network data. Player statistics were web scraped from Real-GM using Splinter, pandas, and Beautiful Soup. Team statistics were web scraped from Real-GM using pandas. 
