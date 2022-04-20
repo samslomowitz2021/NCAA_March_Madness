@@ -29,8 +29,8 @@ Coaches Rank was web scraped from ESPN using Beautiful Soup. Data cleaning inclu
 Utilizing PGAdmin, we ran five SQL queries to analyze the data. The queries revealed that the Second Round of the tournament had a top 10 seed player versus a seed greater than 13 in rank. Coaches Mark Few from Gonzaga and Tommy Lloyd from Arizona coached high performing players in the points per game category.  Arizona, Duke, Illinois, and Iowa State, all respectable teams in NCAA tournament history, had primetime showing on TV Networks in the First Round. Tyrese Hunter from Iowa State, J.D. Notae from Arkansas, and Charlie Moore from Miami were solid all-around players that top the charts in terms of steals per game, rebounds per game, and points per game while being featured in high seeded teams in the tournament. 
 Using SQLAlchemy we performed a more thorough analysis of the data sources we collected. The first data visualization featured the top ten teams based on the players’ points per game. This seaborn plot revealed that Tennessee had the top player points per game while Purdue had the lower player points per game. We constructed a donut chart that represented the top performing players in the category of assists. Tyler Kolek from Marquette escalated to the top of assist category in the first round and part of the second round of March Madness. Finally, we looked at average total game score by Time and TV Network. This revealed that it's better to watch CBS for higher scoring games in the tournament. Night time games on Saturday are typically higher scoring as well. 
 
-![Alt text](Coaches face off in first round.png?raw=true "Title")
-![Alt text](Player PPG and Coach that train them.png?raw=true "Title")
+![Alt text](Coaches.png?raw=true "Title")
+![Alt text](Player.png?raw=true "Title")
 
 ### Conclusion
 ---
